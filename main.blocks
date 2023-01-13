@@ -1,1 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="8:XL`[MR,*hh7E!h)H!Z" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="V=jD)GpfClKk3%ff%rux"><field name="i">IconNames.Yes</field></block></statement></block><block type="device_button_event" id="`NA%@)7p-{k4sv4{tTpm" x="256" y="20"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="2n4H]=N/+}Z+/A@^njvv"><field name="i">IconNames.Heart</field></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="8:XL`[MR,*hh7E!h)H!Z" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="A6r3D(BLL2ArM{;Tn3]e"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="^-J);NHVbA29Z~Qgw,j."><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="(n/:uLXEBm$)a],|EBcw"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="@#%+u|0jp([04HI,`uav"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="yuV19F?BO_T)cx@Kd~,}"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="`NA%@)7p-{k4sv4{tTpm" x="256" y="20"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="2n4H]=N/+}Z+/A@^njvv"><field name="i">IconNames.Heart</field></block></statement></block></xml>
